@@ -31,7 +31,9 @@ https://pwnagotchi.org
 
 ## Links
 
-| &nbsp;    | Official Links                                           |
+[![Gource visualization](https://raw.githubusercontent.com/itsdarklikehell/pwnagotchijay/noai/gource.mp4)](https://raw.githubusercontent.com/itsdarklikehell/pwnagotchijay/noai/gource.mp4)
+
+|| &nbsp;    | Official Links                                           |
 |-----------|----------------------------------------------------------|
 | Website   | [pwnagotchi.org](https://pwnagotchi.org/)                  |
 | Chat      | [discord](https://discord.gg/PGgnzFbz4M) |
