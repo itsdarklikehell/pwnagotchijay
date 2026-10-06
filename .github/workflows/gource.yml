@@ -1,8 +1,10 @@
 name: Generate Gource Video
 
-on:
+# DISABLED: Gource action outdated, consistently failing
+# on:
   schedule:
-    - cron: '0 3 1 * *'
+    - cr# DISABLED: Gource action outdated, consistently failing
+# on: '0 3 1 * *'
   workflow_dispatch:
 
 permissions:
@@ -10,7 +12,8 @@ permissions:
 
 jobs:
   gource:
-    runs-on: ubuntu-latest
+    runs-# DISABLED: Gource action outdated, consistently failing
+# on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
